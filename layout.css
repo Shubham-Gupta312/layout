@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.box{
+    height: 5.7rem;
+    width: 100%;
+    color: black;
+    border: 3px solid black;
+    display: flex;
+}
+
+.logo{
+    border: 2px solid black;
+    height: 4.1rem;
+    width: 4.1rem;
+    background-color: #54bcce;
+    margin-top: 5px;
+    margin-left: 1rem;   
+    border-radius:2px; 
+    
+}
+.search{
+    height: 25px;
+    width: 23rem;
+    background-color: #fff;
+    border: 2px solid black;
+    border-radius: 3px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25rem;
+    margin-top: 1.9rem ;
+}
+
+.logo p {
+    padding-top: 3px ;
+    padding-left: 5px; 
+    margin-top: 2.9rem;
+}
+
+
+.searchopt{
+    height: 14px;    
+    width: 23px;
+    background-color: #808080;
+    border-radius: 3px;
+    margin-left: 23.1rem;
+    margin-top: -20px;
+    padding: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.searchopt:hover{
+    background-color: #999696;
+}
+
+
+.sidecont{
+    margin-left: 24rem;
+    margin-top: 1.2rem;
+    display: flex;
+}
+
+.sidecont .dash{
+    height: 20px;
+    width:  5rem;
+    padding: 2px;
+    margin-top: 9px;
+    margin-left: 8px;
+    border: 2px solid black;
+    box-shadow: 3px 4px #5a5858;
+    cursor: pointer;
+}
+
+.sidecont :hover{
+    background-color: #f0eaea;
+}
+
+.sidecont :log{
+    background-color: #f0eaea;
+}
+
+.sidecont .log{
+    height: 20px;
+    width:  4rem;
+    padding: 2px;
+    margin-top: 9px;
+    margin-left: 16px;
+    border: 2px solid black;
+    cursor: pointer;
+    box-shadow: 3px 4px #5a5858;
+}
+
+
+.mainbar{
+    height: 70em;
+    width: 100%;
+    margin-top: 2rem;
+    display: flex;
+}
+
+.sidebox{
+    height: 30em;
+    width: 20em;
+    margin-top: 3rem;
+    margin-left: 2rem;
+    display: flex;
+}
+
+.userimg{
+    height: 5rem ;
+    width: 5rem;
+    border: 2px solid black;
+    margin-top: 2rem;
+    margin-left: 1.3em ;
+    background-color: blanchedalmond;
+}
+
+.sidebox p{
+    margin-top: 4rem;
+    margin-left: 2em ;
+}
+
+.navbar{
+    height: 7rem ;
+    width: 9rem;
+     margin-top: 10rem;
+    margin-left: -4rem;
+}
+
+.navbar ul li{
+    list-style: none;
+    margin: 7px;
+}
+
+
+.navbar ul li a{
+    text-decoration: none;
+    color: black;   
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 530;
+    
+}
+
+.centercont{
+    height: 50em;
+    width: 40rem;
+    margin-top: 3rem;
+    margin-left: 4rem;
+}
+
+
+
+.centerbar{
+    height: 30rem;
+    width: 30rem;
+    border: 2px solid black;
+    margin-left: 28em;
+    margin-top: -30rem;
+}
+
+.create{
+    height: 20px;
+    width: 15em;
+    border: 2px solid #6c6cda;
+    margin-top: 2rem;
+    margin-left: 9rem;
+    border-radius: 2px ;
+}
+
+.create p{
+    padding-left: 3px;
+}
+
+.navigation{ 
+     margin-top: 9px;
+}
+
+.navigation ul{
+    display: flex;
+    margin-left: 9.5rem;
+}
+
+.navigation ul p{
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.navigation ul li{
+    list-style: none;
+    margin: 5px;
+}
+
+.navigation ul li a{
+   color: black;
+}
+
+.imagebar{
+    height: 15rem;
+    width: 15rem;
+    border: 2px solid black;
+    margin-top: 2rem;
+    margin-left: 9rem;
+}
+
+.imagetitle{
+    height: 4rem;
+    width: 15rem;
+    border: 2px solid black;
+    margin-top: 1px;
+    margin-left: 9rem;
+}
+
+.imagetitle a{
+    padding-left: 4px;
+    margin-top: 9px;
+    color: black;
+    font-weight: bold;
+}
+
+.imagetitle p{
+    padding-left: 4px;
+    margin-top: 0.6rem;
+}
+
+
+.imagebar2{
+    height: 15rem;
+    width: 15rem;
+    border: 2px solid black;
+    margin-top: 2rem;
+    margin-left: 9rem;
+}
+
+.imagetitle2{
+    height: 4rem;
+    width: 15rem;
+    border: 2px solid black;
+    margin-top: 1px;
+    margin-left: 9rem;
+}
+
+.imagetitle2 a{
+    padding-left: 4px;
+    margin-top: 9px;
+    color: black;
+    font-weight: bold;
+}
+
+.imagetitle2 p{
+    padding-left: 4px;
+    margin-top: 0.6rem;
+}
+
+
+.sidebar{
+    height: 30rem;
+    width: 25rem;
+    border: 2px solid black;
+    margin-left: 2rem;
+    margin-top: 3rem;
+
+}
+.sidebar h3{
+  text-align: center;
+  margin-top: 2rem;
+} 
