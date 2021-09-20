@@ -23,7 +23,7 @@
 }
 .search{
     height: 25px;
-    width: 23rem;
+    width: 25.3rem;
     background-color: #fff;
     border: 2px solid black;
     border-radius: 3px;
@@ -31,6 +31,10 @@
     justify-content: center;
     margin-left: 25rem;
     margin-top: 1.9rem ;
+}
+
+.search p{
+    padding: 4px;
 }
 
 .logo p {
@@ -42,13 +46,13 @@
 
 .searchopt{
     height: 14px;    
-    width: 23px;
+    width: 27px;
     background-color: #808080;
-    border-radius: 3px;
-    margin-left: 23.1rem;
-    margin-top: -20px;
+    margin-left: 22.6rem;
+    margin-top: -27px;
     padding: 5px;
-    border: 2px solid black;
+    padding-left: 10px;
+    border: 1px solid #808080;
     cursor: pointer;
 }
 
